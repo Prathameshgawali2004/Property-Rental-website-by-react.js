@@ -1,0 +1,46 @@
+ .card {
+  width: 300px;
+  max-width: 90%;
+  height: 450px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: -120px;
+  padding-bottom: 60px;
+}
+
+.card .images {
+  width: 100%;
+  height: 100%;
+  overflow: scroll;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  border-radius: 6px;
+}
+
+.card .images::-webkit-scrollbar {
+  display: none;
+}
+
+.images img {
+  width: 100%;
+  height: 60%;
+  flex-shrink: 0;
+}
+
+.cardspan1 {
+  font-size: 20px;
+  font-weight: 300;
+  color: black;
+  margin-top: -50px;
+}
+
+.cardspan2 {
+  font-size: 20px;
+  font-weight: 300;
+  color: green;
+  margin-top: 2px;
+} 
+

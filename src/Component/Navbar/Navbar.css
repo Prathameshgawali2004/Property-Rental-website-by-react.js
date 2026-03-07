@@ -1,0 +1,185 @@
+ #Navbar {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow: visible;
+} 
+
+
+.nav1 {
+  height: 75px;
+  padding: 0 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: white;
+  border-bottom: 1px solid #eee;
+}
+
+.nav2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 35px;
+  border-bottom: none;
+  background: white;
+  padding: 20px 0 30px;
+  margin-bottom: 40px;
+}
+.svg1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+  padding-bottom: 10px;
+}
+.svg1 svg {
+  width: 22px;
+  height: 22px;
+}
+.svg1 h3 {
+  font-size: 12px;
+  font-weight: 300;
+  color: rgba(56, 56, 56);
+  margin-top: 4px;
+  line-height: 1;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.logo h1 {
+  font-size: 18px;
+  font-weight: 300;
+  color: rgb(247, 8, 8);
+}
+.search {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+.search input {
+  width: 300px;
+  padding: 10px 18px;
+  border-radius: 30px;
+  border: 1px solid #ccc;
+  outline: none;
+}
+.search button {
+  background: #ff385c;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+}
+.search button:hover {
+  border: 2px solid red;
+  background: transparent;
+  color: red;
+}
+.search svg {
+  width: 20px;
+  height: 20px;
+  color: white;
+}
+.search svg:hover {
+  border: 2px solid red;
+  background: transparent;
+  color: red;
+}
+.ham {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+#btn1 {
+  background: white;
+  border: none;
+  font-size: 14px;
+  padding: 10px 16px;
+  border-radius: 30px;
+  cursor: pointer;
+}
+#btn1:hover {
+  background-color: rgba(232, 230, 230, 0.844);
+}
+#btn2 {
+  height: 40px;
+  padding: 0 14px;
+  border-radius: 30px;
+  border: 1px solid #ccc;
+  background: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  line-height: 1;
+  cursor: pointer;
+}
+#svg1 {
+  width: 22px;
+  height: 22px;
+  fill: black;
+}
+#svg2 {
+  width: 22px;
+  height: 22px;
+  display: block;
+}
+#btn2:hover {
+  box-shadow: 2px 2px 10px black;
+}
+.hamburger {
+  position: absolute;
+  width: 220px;
+  height: 230px;
+  background-color: white;
+   right: 0;
+  top: 40%;
+  margin-top: -10px;
+  box-shadow: 2px 2px 10px rgb(80, 78, 78);
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 10px;
+  box-sizing: border-box;
+  z-index: 9999;
+}
+.ham1 {
+  padding: 10px;
+  box-sizing: border-box;
+  font-size: 16px;
+  font-weight: 300;
+  color: black;
+  cursor: pointer;
+  width: 100%;
+  border-radius: 30px;
+}
+.ham1:hover {
+  background-color: rgba(232, 230, 230, 0.8444);
+}
+.hamburger a {
+  text-decoration: none !important;
+  color: black;
+}
+.hamburger a:hover {
+  text-decoration: none !important;
+}
+a {
+  text-decoration: none !important;
+}
+.logo h1 {
+  text-decoration: none !important;
+} 
+
+
+

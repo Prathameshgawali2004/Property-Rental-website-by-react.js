@@ -1,0 +1,90 @@
+#footer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgb(38, 38, 38);
+  gap: 20px;
+  color: white;
+  padding: 10px;
+}
+
+.footertop {
+  width: 100%;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.footerbottom {
+  width: 100%;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 5px;
+}
+
+#contact1 {
+  font-size: 25px;
+  font-weight: 500;
+  color: white;
+}
+
+#services {
+  font-size: 25px;
+  font-weight: 500;
+  color: white;
+}
+
+#quick {
+  font-size: 25px;
+  font-weight: 500;
+  color: white;
+}
+
+#logo {
+  font-size: 25px;
+  font-weight: 500;
+  color: white;
+}
+
+.box span {
+  font-size: 15px;
+  font-weight: 300;
+  color: white;
+}
+
+.box button {
+  padding: 2px 6px;
+  background-color: rgb(247, 8, 8);
+  color: white;
+  font-size: 14px;
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  border: none;
+  margin-top: 10px;
+}
+
+.footerbottom span {
+  font-size: 15px;
+  font-weight: 300;
+  color: white;
+} 
+
+
+  
