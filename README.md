@@ -27,28 +27,31 @@ A modern and user-friendly **Property Rental Website** built to simplify the pro
 ##  Screenshots
 
 ### Home Page
-![Home Page](images/Home.png)
+![Home Page](Home.png)
 
 ###  Category Page
-![Category Page](images/Category.png)
+![Category Page](Category.png)
 
 ###  Listing Page
-![Listing Page](images/Listing.png)
+![Listing Page](Listing.png)
 
 ###  Login Page
-![Login Page](images/LoginPage.png)
+![Login Page](LoginPage.png)
 
 ###  Contact Page
-![Contact Page](images/contact.png)
+![Contact Page](contact.png)
 
 ###  Footer
-![Footer](images/Footer.png)
+![Footer](Footer.png)
 
-● Run Locally
+##  Run Locally
+
+```bash
 npm install
 npm start
 npm run dev
-'''
+```
+
 
 Author
 Prathamesh Gawali GitHub: https://github.com/Prathameshgawali2004
