@@ -1,21 +1,34 @@
-# Property Rental Website (React)
+# 🏠 Property Rental Website
 
-This is a Property Rental Website built using React and Vite.
+A modern and user-friendly **Property Rental Website** built to simplify the process of finding and exploring rental properties. The platform provides a smooth and responsive experience for browsing houses, apartments, and flats, with easy search and detailed property views designed for a seamless user experience.
 
-## Features
-- Browse rental properties
-- Responsive design
-- Fast performance using Vite
+---
 
-## Tech Stack
-- React.js
-- Vite
-- JavaScript
-- CSS
+##  Features
 
-## How to Run
-1. Install dependencies:
-   npm install
+-  Browse rental properties
+-  Search properties by location or price
+-  Property images display
+-  Detailed property information page
+-  Fully responsive design (mobile + desktop)
+-  Clean and user-friendly UI
 
-2. Start development server:
-   npm run dev
+---
+
+##  Tech Stack
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- (React / Bootstrap if used)
+
+---
+
+● Run Locally
+npm install
+npm start
+npm run dev
+'''
+
+Author
+Prathamesh Gawali GitHub: https://github.com/Prathameshgawali2004
