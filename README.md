@@ -24,6 +24,26 @@ A modern and user-friendly **Property Rental Website** built to simplify the pro
 
 ---
 
+##  Screenshots
+
+### Home Page
+![Home Page](images/Home.png)
+
+###  Category Page
+![Category Page](images/Category.png)
+
+###  Listing Page
+![Listing Page](images/Listing.png)
+
+###  Login Page
+![Login Page](images/LoginPage.png)
+
+###  Contact Page
+![Contact Page](images/contact.png)
+
+###  Footer
+![Footer](images/Footer.png)
+
 ● Run Locally
 npm install
 npm start
